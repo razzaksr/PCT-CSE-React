@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/PCT-CSE-React/static/css/main.f855e6bc.css",
+    "main.js": "/PCT-CSE-React/static/js/main.137b2cfd.js",
+    "static/js/453.6aabf457.chunk.js": "/PCT-CSE-React/static/js/453.6aabf457.chunk.js",
+    "static/media/logo.svg": "/PCT-CSE-React/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/PCT-CSE-React/index.html",
+    "main.f855e6bc.css.map": "/PCT-CSE-React/static/css/main.f855e6bc.css.map",
+    "main.137b2cfd.js.map": "/PCT-CSE-React/static/js/main.137b2cfd.js.map",
+    "453.6aabf457.chunk.js.map": "/PCT-CSE-React/static/js/453.6aabf457.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.137b2cfd.js"
+  ]
+}
